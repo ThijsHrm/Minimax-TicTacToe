@@ -1,0 +1,24 @@
+.Mainpad {
+  position: absolute;
+  left: 50%;
+  margin-left: -100px;
+  top: 50px;
+}
+
+.button {
+  margin: 2px 0px;
+  width: 64px;
+  height: 64px;
+  font-size: 270%;
+}
+
+.button10 {
+  margin: 2px 0px;
+  width: 200px;
+  height: 64px;
+}
+
+#Narrator {
+  text-align: center;
+  font-size: 270%;
+}
